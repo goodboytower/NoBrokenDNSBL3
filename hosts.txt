@@ -126,3 +126,7 @@ pagead2.googlesyndication.com
 tps.doubleverify.com
 29773.v.fwmrm.net
 su.addthis.com
+secure-gl.imrworldwide.com
+rtr.innovid.com
+s.innovid.com
+tag.researchnow.com
