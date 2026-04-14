@@ -139,9 +139,14 @@ aa.online-metrix.net
 d.agkn.com
 ford.demdex.net
 www.everestjs.net
+everestjs.net
 pixel.everesttech.net
 t.teads.tv
 init.supersonicads.com
 c.go-mpulse.net
 try.abtasty.com
 static.doubleclick.net
+securepubads.g.doubleclick.net
+static.ads-twitter.com
+geolocation.onetrust.com
+stats.g.doubleclick.net
