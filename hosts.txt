@@ -203,6 +203,7 @@ exelator.com
 bluekai.com
 lgsmartad.com
 us.lgsmartad.com
+bam.nr-data.net
 samsungads.com
 ads.samsung.com
 p13n.amazon.com
@@ -210,6 +211,10 @@ recommendations.api.amazon.com
 targeting.unrulymedia.com
 self.adblockultimate.net
 global-api.airthin.gs
+b.stats.paypal.com
+tpt.dotomi.com
+pixel.adsafeprotected.com
+a.klaviyo.com
 *.life
 *.site
 *.info
