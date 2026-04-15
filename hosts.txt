@@ -171,7 +171,6 @@ liveramp.com
 id5-sync.com
 33across.com
 adform.net
-global-api.airthin.gs
 wtb-api-hub.swaven.com
 open-pers.pearlapis.com
 expressapisv2.net
