@@ -189,7 +189,6 @@ settings-win.data.microsoft.com
 browser.events.data.microsoft.com
 telemetry.microsoft.com
 guzzoni.apple.com
-gdmf.apple.com
 xp.apple.com
 configuration.apple.com
 play.googleapis.com
