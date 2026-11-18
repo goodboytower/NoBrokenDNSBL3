@@ -1,6 +1,4 @@
 tiktok.com
-analytics.tiktok.com
-www.tiktok.com
 .tiktok.com
 .tiktokcdn.com
 .tiktokcdn-us.com
@@ -22,12 +20,9 @@ www.tiktok.com
 .bytefcdn-oversea.com
 
 mobile-collector.newrelic.com
-ad.doubleclick.net
 googleadservices.com
-dpm.demdex.net
 www.googletagmanager.com
 www.google-analytics.com
-insight.adsrvr.org
 newrelic.com
 quantummetric.com
 contentsquare.net
@@ -43,7 +38,6 @@ outbrain.com
 scorecardresearch.com
 demdex.net
 everesttech.net
-tapad.com
 blueconic.net
 medallia.com
 qualtrics.com
@@ -130,8 +124,6 @@ dewrain.life
 dewrain.site
 akisinn.info
 vaicore.site
-pubads.g.doubleclick.net
-googleads.g.doubleclick.net
 farm.plista.com
 beacon.krxd.net
 sync.search.spotxchange.com
@@ -141,7 +133,6 @@ s.amazon-adsystem.com
 sb.scorecardresearch.com
 secure-gl.imrworldwide.com
 tracker.nbcuas.com
-googleads4.g.doubleclick.net
 p.tvpixel.com
 ade.googlesyndication.com
 pagead2.googlesyndication.com
@@ -153,12 +144,9 @@ rtr.innovid.com
 s.innovid.com
 tag.researchnow.com
 www.googleadservices.com
-pixel.tapad.com
-tapestry.tapad.com
 lcprd1.samsungcloudsolution.net
 aa.online-metrix.net
 d.agkn.com
-ford.demdex.net
 www.everestjs.net
 everestjs.net
 pixel.everesttech.net
@@ -166,13 +154,9 @@ t.teads.tv
 init.supersonicads.com
 c.go-mpulse.net
 try.abtasty.com
-static.doubleclick.net
-securepubads.g.doubleclick.net
 static.ads-twitter.com
 geolocation.onetrust.com
-stats.g.doubleclick.net
 region1.google-analytics.com
-stats.g.doubleclick.net
 analytics.googleusercontent.com
 pagead-googlehosted.l.google.com
 metrics.apple.com
@@ -211,8 +195,6 @@ browser.events.data.microsoft.com
 telemetry.microsoft.com
 guzzoni.apple.com
 xp.apple.com
-configuration.apple.com
-play.googleapis.com
 android.clients.google.com
 clients4.google.com
 firebaseinstallations.googleapis.com
@@ -244,14 +226,10 @@ k.clarity.ms
 notify.bugsnag.com
 sessions.bugsnag.com
 dt.adsafeprotected.com
-js.adsrvr.org
-match.adsrvr.org
-cm.g.doubleclick.net
 adservice.google.com
 res1.applovin.com
 secure-gg.imrworldwide.com
 mads.amazon-adsystem.com
 cdn.taboola.com
 cdn.doubleverify.com
-adobe.demdex.net
 tracker.samplicio.us
