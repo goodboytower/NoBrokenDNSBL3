@@ -217,10 +217,6 @@ b.stats.paypal.com
 tpt.dotomi.com
 pixel.adsafeprotected.com
 a.klaviyo.com
-*.life
-*.site
-*.info
-*.ru
 c.bing.com
 k.clarity.ms
 notify.bugsnag.com
