@@ -18,7 +18,7 @@ tiktok.com
 .byteoversea.com
 .byteoversea.net
 .bytefcdn-oversea.com
-
+scarabresearch.com
 mobile-collector.newrelic.com
 googleadservices.com
 www.googletagmanager.com
@@ -205,6 +205,8 @@ exelator.com
 bluekai.com
 lgsmartad.com
 us.lgsmartad.com
+adroll.com
+adgrx.com
 bam.nr-data.net
 samsungads.com
 ads.samsung.com
@@ -219,13 +221,13 @@ pixel.adsafeprotected.com
 a.klaviyo.com
 c.bing.com
 k.clarity.ms
-notify.bugsnag.com
-sessions.bugsnag.com
+simpli.fi
+bugsnag.com
 dt.adsafeprotected.com
 adservice.google.com
 res1.applovin.com
 secure-gg.imrworldwide.com
-mads.amazon-adsystem.com
+amazon-adsystem.com
 cdn.taboola.com
 cdn.doubleverify.com
 tracker.samplicio.us
