@@ -131,7 +131,6 @@ servedby.flashtalking.com
 siteintercept.qualtrics.com
 s.amazon-adsystem.com
 sb.scorecardresearch.com
-secure-gl.imrworldwide.com
 tracker.nbcuas.com
 p.tvpixel.com
 ade.googlesyndication.com
@@ -139,7 +138,7 @@ pagead2.googlesyndication.com
 tps.doubleverify.com
 29773.v.fwmrm.net
 su.addthis.com
-secure-gl.imrworldwide.com
+imrworldwide.com
 rtr.innovid.com
 s.innovid.com
 tag.researchnow.com
@@ -198,6 +197,7 @@ xp.apple.com
 android.clients.google.com
 clients4.google.com
 firebaseinstallations.googleapis.com
+firebaselogging.googleapis.com
 crwdcntrl.net
 uidapi.com
 tapad.com
@@ -226,8 +226,20 @@ bugsnag.com
 dt.adsafeprotected.com
 adservice.google.com
 res1.applovin.com
-secure-gg.imrworldwide.com
 amazon-adsystem.com
 cdn.taboola.com
 cdn.doubleverify.com
 tracker.samplicio.us
+pixel.mtrcs.samba.tv
+tiqcdn.com
+contextweb.com
+sonobi.com
+smartadserver.com
+360yield.com
+turn.com
+yieldmo.com
+1rx.io
+adnxs.com
+3lift.com
+indexww.com
+bounceexchange.com
